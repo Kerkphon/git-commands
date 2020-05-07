@@ -20,6 +20,3 @@ How do we send our files to the server:
 
 git push
 
-How do we bring a repo down to our local machine;
-
-git clone https://github.com/Kerkphon/portal.git
